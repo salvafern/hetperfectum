@@ -22,6 +22,10 @@ Wanneer de RStudio-instantie is geopend, schrijft je op de opdrachtregel:
 ```r
 hetperfectum::hetperfectum_vraag_perfectum()
 ```
+of
+```r
+hetperfectum::hetperfectum_vraag_imperfectum_sing()
+```
 ![foto.png](https://github.com/salvafern/hetperfectum/blob/master/tutorial/gif1.gif)
 
 

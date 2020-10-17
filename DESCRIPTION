@@ -1,11 +1,16 @@
 Package: hetperfectum
 Title: Deze pakket is een speel voor Nederlands leren
-Version: 0.0.1
-Authors@R: 
+Version: 0.0.2
+Authors@R: c(
     person(given = "Salvador",
            family = "Fernandez",
            role = c("aut", "cre"),
-           email = "salvafern@protonmail.com")
+           email = "salvafern@protonmail.com"),
+    person(given = "Ruben",
+           family = "Perez Perez",
+           role =  "ctb",
+           email = "ruben.perper@gmail.com")       
+           )
 Description: Deze pakket is een speel voor Nederlands leren.
 Depends: R (>= 3.1.0)
 License: CC BY 4.0

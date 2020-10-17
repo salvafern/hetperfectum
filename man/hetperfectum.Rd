@@ -3,7 +3,7 @@
 \docType{data}
 \name{hetperfectum}
 \alias{hetperfectum}
-\title{Deze dataset heeft de infinitief een het perfectum voor veel verbs}
+\title{Deze dataset heeft de infinitief, het perfectum een het imperfectum voor vele verba}
 \format{
 Een tibble (tidyverse data frame)
 }
@@ -11,6 +11,6 @@ Een tibble (tidyverse data frame)
 hetperfectum
 }
 \description{
-Deze dataset heeft de infinitief een het perfectum voor veel verbs
+Deze dataset heeft de infinitief, het perfectum een het imperfectum voor vele verba
 }
 \keyword{datasets}

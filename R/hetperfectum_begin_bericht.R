@@ -10,7 +10,7 @@ hetperfectum_begin_bericht <- function(){
       "-----------------------------------------------------------------------------
 Hetperfectum! Een speel voor Nederlands leren.
 
-Gesgreven door Salvador Fernandez (@salvafern)
+Geschreven door Salvador Fernandez (@salvafern) met medewerking van Ruben Perez Perez (@rubenpp7)
 
 LICENSE: CC BY 4.0 (creativecommons.org/licenses/by/4.0/)
 

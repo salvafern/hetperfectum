@@ -1,4 +1,4 @@
-#' Deze dataset heeft de infinitief een het perfectum voor veel verbs
+#' Deze dataset heeft de infinitief, het perfectum een het imperfectum voor vele verba
 #'
 #' @format Een tibble (tidyverse data frame)
 #' @name hetperfectum

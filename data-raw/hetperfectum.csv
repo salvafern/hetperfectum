@@ -1,94 +1,94 @@
-Infinitief,Perfectum,Zijn_of_hebben,Engels,Type,
-aandoen,aangedaan,hebben,to put on,Irregular,
-aankomen,aangekomen,zijn,to come,Irregular,
-afwassen,afgewassen,hebben,to wash dishes,part + ge + verb,
-bakken,gebakken,hebben,to bake,Same verb,
-beginnen,begonnen,zijn,to begin,i -> o,
-begrijpen,begrepen,hebben,to understand,ij -> e,
-behangen,behangen,hebben,to put paper on walls,Same verb,
-bewegen,bewogen,hebben,to move,i -> o,
-bezoeken,bezocht,hebben,to visit,Irregular,
-bijten,gebeten,hebben,to bite,ij -> e,
-blazen,geblazen,hebben,to blow,ge + verb,
-bijven,gebleven,zijn,to stay,ij -> e,
-breken,gebroken,hebben,to break,e -> o,
-denken,gedacht,hebben,to think,Irregular,
-doen,gedaan,hebben,to do,Irregular,
-dragen,gedragen,hebben,to wear,ge + verb,
-drinken,gedronken,hebben,to drink,i -> o,
-eten,gegeten,hebben,to eat,ge + verb,
-gaan,gegaan,zijn,to go,ge + verb,
-genezen,genezen,hebben,to heal,Same verb,
-geven,gegeven,hebben,to give,ge + verb,
-gieten,gegoten,hebben,to pour,i -> o,
-hangen,gehangen,hebben,to hang,ge + verb,
-hebben,gehad,hebben,to have,Irregular,
-helpen,geholpen,hebben,to help,i -> o,
-houden,gehouden,hebben,to love,ge + verb,
-innemen,ingenomen,hebben,to ingest,e -> o,
-kiezen,gekozen,hebben,to select,ie -> o,
-kijken,gekeken,hebben,to see,ij -> e,
-komen,gekomen,zijn,to come,ge + verb,
-kopen,gekocht,hebben,to buy,Irregular,
-krijgen,gekregen,hebben,to get,ij -> e,
-kunnen,gekund,hebben,to can,Irregular,
-laten,gelaten,hebben,to leave,ge + verb,
-lezen,gelezen,hebben,to read,ge + verb,
-liggen,gelegen,hebben,to lie,Irregular,
-lopen,gelopen,hebben/zijn,to walk,ge + verb,
-meenemen,meegenomen,hebben,to take out,,
-moeten,gemoeten,hebben,to must,ge + verb,
-mogen,gemogen,hebben,to be allowed to,ge + verb,
-nakijken,nagekeken,hebben,to check,ij -> e,
-nemen,genomen,hebben,to take,e -> o,
-onderzoeken,onderzocht,hebben,to research,Irregular,
-ontbijten,ontbeten,hebben,to have breakfast,ij -> e,
-opstaan,opgestaan,zijn,to stand up,part + ge + verb,
-oversteken,overgestoken,zijn,to cross,,
-rijden,gereden,hebben,to drive,,
-roepen,geroepen,hebben,to call,,
-scheiden,gescheiden,hebben,to be divorced,,
-schijnen,geschenen,de zon heeft,to shine,,
-schrijven,geschreven,hebben,to write,,
-slapen,geslapen,hebben,to sleep,,
-sluiten,gesloten,hebben,to close,,
-snijden,gesneden,hebben,to cut,,
-spreken,gesproken,hebben,to speak,,
-springen,gesprongen,hebben,to jump,,
-staan,gestaan,hebben,to stand,,
-steken,gestoken,hebben,to put,,
-sterven,gestorven,zijn,to die,,
-strijken,gestreken,hebben,to iron,,
-treffen,getroffen,hebben,to meet someone,,
-trekken,getrokken,hebben,to pull,,
-uitdoen,uitgedaan,hebben,to turn off,,
-uitgaan,uitgegaan,zijn,to go out,,
-uittrekken,uitgetrokken,hebben,to pull out,,
-vallen,gevallen,zijn,to fall,,
-varen,gevaren,hebben/zijn,to sail,,
-verbieden,verboden,hebben,to forbid,,
-vergeten,vergeten,hebben/zijn,to forget,,
-verkopen,verkocht,hebben,to sell,,
-verliezen,verloren,hebben,,,
-verstaan,verstaan,hebben,to understand,,
-vertrekken,vertrokken,zijn,to leave,,
-vervangen,vervangen,hebben,to replace,,
-vinden,gevonden,hebben,to find,,
-vliegen,gevlogen,hebben/zijn,to fly,,
-voorkomen,voorkomen,hebben,to prevent,,
-vragen,gevraagd,hebben,to ask,,
-vriezen,gevroren,het heeft,to freeze,,
-wassen,gewassen,hebben,to wash,,
-wegen,gewogen,hebben,to weight,,
-weten,geweten,hebben,to know,,
-wijzen,gewezen,hebben,to show,,
-willen,gewild,hebben,to want,,
-winnen,gewonnen,hebben,to win,,
-worden,geworden,zijn,to become,,
-zeggen,gezegd,hebben,to say,,
-zien,gezien,hebben,to see,,
-zijn,geweest,zijn,to be,,
-zingen,gezongen,hebben,to sing,,
-zitten,gezeten,hebben,to sit,,
-zoeken,gezocht,hebben,to search,,
-zwemmen,gezwommen,hebben/zijn,to swim,,
+Infinitief,Perfectum,Zijn_of_hebben,Engels,Type,Imperfectum_singularis,Imperfectum_pluralis
+aandoen,aangedaan,hebben,to put on,Irregular,deed aan,deden aan
+aankomen,aangekomen,zijn,to come,Irregular,kwam aan,kwamen aan
+afwassen,afgewassen,hebben,to wash dishes,part + ge + verb,waste af,wasten af
+bakken,gebakken,hebben,to bake,Same verb,bakte,bakten
+beginnen,begonnen,zijn,to begin,i -> o,begon,begonnen
+begrijpen,begrepen,hebben,to understand,ij -> e,begreep,begrepen
+behangen,behangen,hebben,to put paper on walls,Same verb,behing,behingen
+bewegen,bewogen,hebben,to move,i -> o,bewoog,bewogen
+bezoeken,bezocht,hebben,to visit,Irregular,bezocht,bezochten
+bijten,gebeten,hebben,to bite,ij -> e,beet,beten
+blazen,geblazen,hebben,to blow,ge + verb,blies,bliezen
+blijven,gebleven,zijn,to stay,ij -> e,bleef,bleven
+breken,gebroken,hebben,to break,e -> o,brak,braken
+denken,gedacht,hebben,to think,Irregular,dacht,dachten
+doen,gedaan,hebben,to do,Irregular,deed,deden
+dragen,gedragen,hebben,to wear,ge + verb,droeg,droegen
+drinken,gedronken,hebben,to drink,i -> o,dronk,dronken
+eten,gegeten,hebben,to eat,ge + verb,at,aten
+gaan,gegaan,zijn,to go,ge + verb,ging,gingen
+genezen,genezen,hebben,to heal,Same verb,genas,genazen
+geven,gegeven,hebben,to give,ge + verb,gaf,gaven
+gieten,gegoten,hebben,to pour,i -> o,goot,goten
+hangen,gehangen,hebben,to hang,ge + verb,hing,hingen
+hebben,gehad,hebben,to have,Irregular,had,hadden
+helpen,geholpen,hebben,to help,i -> o,hielp,hielpen
+houden,gehouden,hebben,to love,ge + verb,hield,hielden
+innemen,ingenomen,hebben,to ingest,e -> o,nam in,namen in
+kiezen,gekozen,hebben,to select,ie -> o,koos,kozen
+kijken,gekeken,hebben,to see,ij -> e,keek,keken
+komen,gekomen,zijn,to come,ge + verb,kwam,kwamen
+kopen,gekocht,hebben,to buy,Irregular,kocht,kochten
+krijgen,gekregen,hebben,to get,ij -> e,kreeg,kregen
+kunnen,gekund,hebben,to can,Irregular,kon,konden
+laten,gelaten,hebben,to leave,ge + verb,liet,lieten
+lezen,gelezen,hebben,to read,ge + verb,las,lazen
+liggen,gelegen,hebben,to lie,Irregular,lag,lagen
+lopen,gelopen,hebben/zijn,to walk,ge + verb,liep,liepen
+meenemen,meegenomen,hebben,to take out,,nam mee,namen mee
+moeten,gemoeten,hebben,to must,ge + verb,moest,moesten
+mogen,gemogen,hebben,to be allowed to,ge + verb,mocht,mochten
+nakijken,nagekeken,hebben,to check,ij -> e,keek na,keken na
+nemen,genomen,hebben,to take,e -> o,nam,namen
+onderzoeken,onderzocht,hebben,to research,Irregular,onderzocht,onderzochten
+ontbijten,ontbeten,hebben,to have breakfast,ij -> e,ontbeet,ontbeten
+opstaan,opgestaan,zijn,to stand up,part + ge + verb,stond op,stonden op
+oversteken,overgestoken,zijn,to cross,,stak over,staken over
+rijden,gereden,hebben,to drive,,reed,reden
+roepen,geroepen,hebben,to call,,riep,riepen
+scheiden,gescheiden,hebben,to be divorced,,scheidde,scheidden
+schijnen,geschenen,de zon heeft,to shine,,scheen,schenen
+schrijven,geschreven,hebben,to write,,schreef,schreven
+slapen,geslapen,hebben,to sleep,,sliep,sliepen
+sluiten,gesloten,hebben,to close,,sloot,sloten
+snijden,gesneden,hebben,to cut,,sneed,sneden
+spreken,gesproken,hebben,to speak,,sprak,spraken
+springen,gesprongen,hebben,to jump,,sprong,sprongen
+staan,gestaan,hebben,to stand,,stond,stonden
+steken,gestoken,hebben,to put,,stak,staken
+sterven,gestorven,zijn,to die,,stierf,stierven
+strijken,gestreken,hebben,to iron,,streek,streken
+treffen,getroffen,hebben,to meet someone,,trof,troffen
+trekken,getrokken,hebben,to pull,,trok,trokken
+uitdoen,uitgedaan,hebben,to turn off,,deed uit,deden uit
+uitgaan,uitgegaan,zijn,to go out,,ging uit,gingen uit
+uittrekken,uitgetrokken,hebben,to pull out,,trok uit,trokken uit
+vallen,gevallen,zijn,to fall,,viel,vielen
+varen,gevaren,hebben/zijn,to sail,,voer,voeren
+verbieden,verboden,hebben,to forbid,,verbood,verboden
+vergeten,vergeten,hebben/zijn,to forget,,vergat,vergaten
+verkopen,verkocht,hebben,to sell,,verkocht,verkochten
+verliezen,verloren,hebben,to lose,,verloor,verloren
+verstaan,verstaan,hebben,to understand,,verstond,verstonden
+vertrekken,vertrokken,zijn,to leave,,vertrok,vertokken
+vervangen,vervangen,hebben,to replace,,verving,vervangen
+vinden,gevonden,hebben,to find,,vond,vonden
+vliegen,gevlogen,hebben/zijn,to fly,,vloog,vlogen
+voorkomen,voorkomen,hebben,to prevent,,voorkwam,voorkwamen
+vragen,gevraagd,hebben,to ask,,vroeg,vroegen
+vriezen,gevroren,het heeft,to freeze,,vroor,vroren
+wassen,gewassen,hebben,to wash,,waste,wasten
+wegen,gewogen,hebben,to weight,,woog,wogen
+weten,geweten,hebben,to know,,wist,wisten
+wijzen,gewezen,hebben,to show,,wees,wezen
+willen,gewild,hebben,to want,,wou,wouden
+winnen,gewonnen,hebben,to win,,won,wonnen
+worden,geworden,zijn,to become,,werd,werden
+zeggen,gezegd,hebben,to say,,zei,zeiden
+zien,gezien,hebben,to see,,zag,zagen
+zijn,geweest,zijn,to be,,was,waren
+zingen,gezongen,hebben,to sing,,zong,zongen
+zitten,gezeten,hebben,to sit,,zat,zaten
+zoeken,gezocht,hebben,to search,,zocht,zochten
+zwemmen,gezwommen,hebben/zijn,to swim,,zwom,zwommen
