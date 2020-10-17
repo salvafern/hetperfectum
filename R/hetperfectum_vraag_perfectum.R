@@ -40,7 +40,7 @@ hetperfectum_vraag_perfectum <- function(){
     if(user_aantwoord == aantwoord){
       juist <- juist + 1
       hetperfectum <- hetperfectum[-id, ]
-      message(paste0("Goed gedaan! Jij hebt ", juist, " juist perfectum schrijven."))
+      message(paste0("Goed gedaan! Jij hebt ", juist, " juist perfectum geschreven."))
     }else{
         while(user_aantwoord != aantwoord){
           Sys.sleep(tijd)
@@ -49,7 +49,8 @@ hetperfectum_vraag_perfectum <- function(){
           Sys.sleep(tijd)
           if(user_aantwoord == aantwoord){
             juist <- juist + 1
-            message(paste0("Goed gedaan! Jij hebt ", juist, " juist perfectum schrijven."))
+            hetperfectum <- hetperfectum[-id, ]
+            message(paste0("Goed gedaan! Jij hebt ", juist, " juist perfectum geschreven."))
           }
           # Exit logic
           if(user_aantwoord == "q"){
@@ -64,7 +65,7 @@ hetperfectum_vraag_perfectum <- function(){
   }
 
   Sys.sleep(tijd)
-  message("Jij hebt allen perfectum juist geschreven. Dankjewel voor spelen!! :)")
+  message("Jij hebt alles perfectum juist geschreven. Dankjewel voor spelen!! :)")
   Sys.sleep(tijd)
   return(hetperfectum_einde_spel(juist, fout))
 }
