@@ -1,6 +1,5 @@
-Type: Compendium
 Package: hetperfectum
-Title: Deze pakket is een speel voor Nederlands leren.
+Title: Deze pakket is een speel voor Nederlands leren
 Version: 0.0.1
 Authors@R: 
     person(given = "Salvador",
@@ -8,11 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "salvafern@protonmail.com")
 Description: Deze pakket is een speel voor Nederlands leren.
-License: Creative Commons Attribution 4.0 International Public License
-Depends: 
-    dplyr,
-    hetperfectum,
-    R,
-    usethis
+Depends: R (>= 3.1.0)
+License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
