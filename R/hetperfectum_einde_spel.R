@@ -1,4 +1,4 @@
-#' Title
+#' einde spel
 #'
 #' @param juist
 #' @param fout

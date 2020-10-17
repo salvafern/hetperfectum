@@ -1,3 +1,9 @@
+#' begin bericht
+#'
+#' @return
+#' @export
+#'
+#' @examples
 hetperfectum_begin_bericht <- function(){
   return(
     message(
