@@ -1,13 +1,18 @@
+Type: Compendium
 Package: hetperfectum
-Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: CC BY 4.0
+Title: Deze pakket is een speel voor Nederlands leren.
+Version: 0.0.1
+Authors@R: 
+    person(given = "Salvador",
+           family = "Fernandez",
+           role = c("aut", "cre"),
+           email = "salvafern@protonmail.com")
+Description: Deze pakket is een speel voor Nederlands leren.
+License: Creative Commons Attribution 4.0 International Public License
+Depends: 
+    dplyr,
+    hetperfectum,
+    R,
+    usethis
 Encoding: UTF-8
 LazyData: true
-Depends: 
-    R (>= 2.10)
