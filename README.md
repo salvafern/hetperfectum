@@ -15,10 +15,21 @@ Je kan dit spel alleen spelen op de opdrachtregel van R. Als jij geen R-gebruike
 
 Wacht een beetje!
 
+...
+
+
 Wanneer de RStudio-instantie is geopend, schrijft je op de opdrachtregel:
 ```r
 hetperfectum::hetperfectum_vraag_perfectum()
 ```
+![foto.png](https://github.com/salvafern/hetperfectum/blob/master/tutorial/gif1.gif)
+
+
+
+
+Wanner wel jij stoppen, schrijft `q` op de opdrachtregel
+
+![foto.png](https://github.com/salvafern/hetperfectum/blob/master/tutorial/gif2.gif)
 
 Dat was alles. Veel plezier!
 
